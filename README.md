@@ -1,6 +1,6 @@
 # NBA Star Players' Influence on Attendance
 
-After a long off season of trades, the Los Angeeles Lakers have a competent roster that can win the NBA championship. The roster includes plenty of former and current star players, and having such players has significantly raised my interest in attending a home game. 
+After a long off season of trades, the Los Angeles Lakers have a competent roster that can win the NBA championship. The roster includes plenty of former and current star players, and having such players has significantly raised my interest in attending a home game. 
 
 
 ## Goal
