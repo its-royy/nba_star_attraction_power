@@ -17,4 +17,8 @@ In order to gather information on attendance, rosters, and star players, I pulle
 
 ## Results
 
-With an α = 0.05, 
+With an α = 0.05, there was a significant difference in aggregate percentage change in attedance between teams with a negative change in the amount of star players and teams with no change.
+
+## Limitations & Assumptions
+
+There were a number of variables that I kept constant for this project. Firstly, I did not account for variability in the influence/popularity of star players; I assumed that all star players have equal attracting power to attendees. Additionally, I did not account for the possibility of sellouts, and assumed ticket sales to be a continuous variable. 
